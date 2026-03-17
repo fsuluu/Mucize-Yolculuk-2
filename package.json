@@ -11,6 +11,9 @@
     "lint": "tsc --noEmit"
   },
   "dependencies": {
+    "@capacitor/android": "^8.2.0",
+    "@capacitor/cli": "^8.2.0",
+    "@capacitor/core": "^8.2.0",
     "@google/genai": "^1.29.0",
     "@react-navigation/native": "^7.1.33",
     "@react-navigation/stack": "^7.8.4",
